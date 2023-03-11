@@ -1,0 +1,581 @@
+,Marca de la moto,Modelo,Precio de la moto,Tipo de Carné,Tipo de moto,Versión / Año,Web del fabricante,Cilindrada,Potencia Máxima Declarada,Altura asiento
+0,Aprilia,SR GT 125 2022,3.999 €,A1,Scooter,2022,https://www.aprilia.com/es_ES/,124 cc,15 cv,799 mm
+1,Aprilia,Tuono 660 Factory 2022,10.999 €,A,Naked,2022,https://www.aprilia.com/es_ES/,659 cc,100 cv,820 mm
+2,Aprilia,Tuareg 660 Evocative 2022,12.699 €,A,Trail,2022,https://www.aprilia.com/es_ES/,659 cc,80 cv,860 mm
+3,Aprilia,Tuareg 660 2022,11.999 €,A,Trail,2022,https://www.aprilia.com/es_ES/,659 cc,80 cv,860 mm
+4,Aprilia,RX 125 2021,3.999 €,A1,Naked,2021,https://www.aprilia.com/es_ES/,124 cc,15 cv,880 mm
+5,Aprilia,SX 125 2021,3.999 €,A1,Naked,2021,https://www.aprilia.com/es_ES/,124 cc,15 cv,880 mm
+6,Aprilia,SXR 50 2021,2.270 €,AM,Scooter,2021,https://www.aprilia.com/es_ES/,50 cc,3 cv,775 mm
+7,Aprilia,RS 125 2021,5.249 €,A1,Deportiva,2021,https://www.aprilia.com/es_ES/,124 cc,15 cv,820 mm
+8,Aprilia,Tuono 125 2021,4.999 €,A1,Naked,2021,https://www.aprilia.com/es_ES/,124 cc,15 cv,820 mm
+9,Aprilia,Tuono V4 Factory 2021,18.999 €,A,Deportiva,2021,https://www.aprilia.com/es_ES/,1.077 cc,175 cv,825 mm
+10,Aprilia,RSV 4 1100 Factory 2021,26.999 €,A,Deportiva,2021,https://www.aprilia.com/es_ES/,1.077 cc,217 cv,851 mm
+11,Aprilia,Tuono 660 A2 2021,10.850 €,A2,Naked,2021,https://www.aprilia.com/es_ES/,659 cc,47 cv,820 mm
+12,Aprilia,Tuono 660 2021,10.850 €,A,Naked,2021,https://www.aprilia.com/es_ES/,659 cc,100 cv,820 mm
+13,Aprilia,RS 660 A2 2021,11.350 €,A2,Deportiva,2021,https://www.aprilia.com/es_ES/,659 cc,47 cv,820 mm
+14,Aprilia,RS 660 2021,11.350 €,A,Deportiva,2021,https://www.aprilia.com/es_ES/,659 cc,100 cv,820 mm
+15,Aprilia,Tuono V4 1100 RR 2019,16.594 €,A,Deportiva,2019,https://www.aprilia.com/es_ES/,1.077 cc,175 cv,825 mm
+16,Aprilia,RSV 4 1100 Factory 2019,25.999 €,A,Deportiva,2019,https://www.aprilia.com/es_ES/,1.078 cc,217 cv,851 mm
+17,Aprilia,Tuono V4 1100 Factory 2019,18.999 €,A,Deportiva,2019,https://www.aprilia.com/es_ES/,1.077 cc,175 cv,825 mm
+18,Aprilia,Tuono V4 Factory,18.499 €,A,Deportiva,2018,https://www.aprilia.com/es_ES/,1.077 cc,175 cv,825 mm
+19,Aprilia,RSV4 RF 2018,24.037 €,A,Deportiva,2018,https://www.aprilia.com/es_ES/,999 cc,201 cv,845 mm
+20,Aprilia,Dorsoduro 900 2017,9.599 €,A,Deportiva,2017,https://www.aprilia.com/es_ES/,896 cc,95 cv,870 mm
+21,Aprilia,RSV4 RR 2017,20.537 €,A,Deportiva,2017,https://www.aprilia.com/es_ES/,999 cc,201 cv,845 mm
+22,Aprilia,RSV4 RF 2017,24.037 €,A,Deportiva,2017,https://www.aprilia.com/es_ES/,999 cc,201 cv,845 mm
+23,Aprilia,RS 125 2017,5.179 €,A1,Deportiva,2017,https://www.aprilia.com/es_ES/,124 cc,15 cv,820 mm
+24,Aprilia,RS4 125,4.692 €,A1,Deportiva,2016,https://www.aprilia.com/es_ES/,124 cc,15 cv,820 mm
+25,Aprilia,RSV 4 RF,23.900 €,A,Deportiva,2016,https://www.aprilia.com/es_ES/,999 cc,201 cv,845 mm
+26,Aprilia,Caponord 1200,13.899 €,A,Trail,2016,https://www.aprilia.com/es_ES/,1.197 cc,125 cv,840 mm
+27,Aprilia,Dorsoduro 1200,13.293 €,A,Trail,2016,https://www.aprilia.com/es_ES/,1.197 cc,130 cv,870 mm
+28,Aprilia,Dorsoduro 750,9.843 €,A/A2,Trail,2016,https://www.aprilia.com/es_ES/,749 cc,92 cv,870 mm
+29,Aprilia,Mana 850 GT,11.111 €,A/A2,Trail,2016,https://www.aprilia.com/es_ES/,839 cc,76 cv,800 mm
+30,Aprilia,Variant Sport 50,1.799 €,AM,Scooter,2016,https://www.aprilia.com/es_ES/,49 cc,4 cv,775 mm
+31,Aprilia,Scarabeo 125,3.405 €,A1,Scooter,2016,https://www.aprilia.com/es_ES/,124 cc,14 cv,810 mm
+32,Aprilia,Tuono V4 R APRC,16.899 €,A,Naked,2016,https://www.aprilia.com/es_ES/,999 cc,162 cv,840 mm
+33,Aprilia,SR Max 125,3.978 €,A1,Scooter,2016,https://www.aprilia.com/es_ES/,124 cc,15 cv,815 mm
+34,Aprilia,Shiver 750,7.999 €,A-A2,Naked,2016,https://www.aprilia.com/es_ES/,749 cc,95 cv,800 mm
+35,Aprilia,Scarabeo 50,2.247 €,AM,Scooter,2016,https://www.aprilia.com/es_ES/,49 cc,4 cv,780 mm
+36,Aprilia,RSV 4 Factory,19.599 €,A,Deportiva,2016,https://www.aprilia.com/es_ES/,999 cc,180 cv,845 mm
+37,Aprilia,SRV 850,9.999 €,A,Scooter,2016,https://www.aprilia.com/es_ES/,839 cc,76 cv,780 mm
+38,Aprilia,SR Motard 125,2.399 €,A1,Scooter,2016,https://www.aprilia.com/es_ES/,124 cc,9 cv,775 mm
+39,Aprilia,SR Max 300,4.399 €,A2,Scooter,2016,https://www.aprilia.com/es_ES/,278 cc,22 cv,815 mm
+40,Aprilia,Tuono V4 1100 RR,15.459 €,A,Deportiva,2016,https://www.aprilia.com/es_ES/,999 cc,175 cv,825 mm
+41,BMW,K 1600 Grand America Opcion 719 Midnight,36.662 €,A,Touring,2022,https://www.bmw-motorrad.es,1.649 cc,160 cv,740 mm
+42,BMW,K 1600 B Opcion 719 Midnight,32.693 €,A,Touring,2022,https://www.bmw-motorrad.es,1.649 cc,160 cv,750 mm
+43,BMW,K 1600 Grand America 2022,34.174 €,A,Touring,2022,https://www.bmw-motorrad.es,1.649 cc,160 cv,740 mm
+44,BMW,K 1600 B 2022,30.177 €,A,Touring,2022,https://www.bmw-motorrad.es,1.649 cc,160 cv,750 mm
+45,BMW,K 1600 GTL 2022,31.409 €,A,Touring,2022,https://www.bmw-motorrad.es,1.649 cc,160 cv,750 mm
+46,BMW,K 1600 GT 2022,28.610 €,A,Touring,2022,https://www.bmw-motorrad.es,1.649 cc,160 cv,810 mm
+47,BMW,C 400 GT 2021,7.990 €,A2,Scooter,2021,https://www.bmw-motorrad.es,350 cc,34 cv,775 mm
+48,BMW,C 400 X 2021,6.990 €,A2,Scooter,2021,https://www.bmw-motorrad.es,350 cc,34 cv,775 mm
+49,BMW,R 1250 RT 2021,21.275 €,A,Touring,2021,https://www.bmw-motorrad.es,1.254 cc,136 cv,805 mm
+50,BMW,M 1000 RR 2021,37.780 €,A,Deportiva,2021,https://www.bmw-motorrad.es,999 cc,212 cv,832 mm
+51,BMW,R18 Classic 2021,27.300 €,A,Custom,2021,https://www.bmw-motorrad.es,1.802 cc,91 cv,690 mm
+52,BMW,S 1000 R 2021,15.650 €,A,Naked,2021,https://www.bmw-motorrad.es,999 cc,165 cv,814 mm
+53,BMW,G 310 R 2021,5.590 €,A2,Naked,2021,https://www.bmw-motorrad.es,313 cc,34 cv,785 mm
+54,BMW,G 310 GS 40 Aniversario,6.250 €,A2,Trail,2021,https://www.bmw-motorrad.es,313 cc,34 cv,835 mm
+55,BMW,G 310 GS 2021,6.390 €,A2,Trail,2021,https://www.bmw-motorrad.es,313 cc,34 cv,835 mm
+56,BMW,BMW R 1250 GS 40 Aniversario,20.100 €,A,Trail,2021,https://www.bmw-motorrad.es,1.254 cc,136 cv,952 mm
+57,BMW,BMW R 1250 GS Adventure 2021,20.100 €,A,Trail,2021,https://www.bmw-motorrad.es,1.254 cc,136 cv,952 mm
+58,BMW,BMW R 1250 GS 2021,18.350 €,A,Trail,2021,https://www.bmw-motorrad.es,1.254 cc,136 cv,850 mm
+59,BMW,S 1000 XR 2021,18.800 €,A,Touring,2021,https://www.bmw-motorrad.es,999 cc,165 cv,840 mm
+60,BMW,S 1000 RR 2021,21.350 €,A,Deportiva,2021,https://www.bmw-motorrad.es,999 cc,207 cv,824 mm
+61,BMW,K 1600 B 2021,28.600 €,A,Touring,2021,https://www.bmw-motorrad.es,1.649 cc,160 cv,810 mm
+62,BMW,R 1250 RS 2021,15.650 €,A,Deportiva,2021,https://www.bmw-motorrad.es,1.254 cc,136 cv,820 mm
+63,BMW,R 1250 R 2021,14.900 €,A,Naked,2021,https://www.bmw-motorrad.es,1.254 cc,136 cv,820 mm
+64,BMW,K 1600 GTL 2021,28.200 €,A,Touring,2021,https://www.bmw-motorrad.es,1.649 cc,160 cv,810 mm
+65,BMW,K 1600 GT 2021,27.300 €,A,Touring,2021,https://www.bmw-motorrad.es,1.649 cc,160 cv,810 mm
+66,BMW,F 850 GS Adventure 40 Aniversario,13.350 €,A/A2,Trail,2021,https://www.bmw-motorrad.es,853 cc,95 cv,875 mm
+67,BMW,F 850 GS Adventure 2021,13.350 €,A/A2,Trail,2021,https://www.bmw-motorrad.es,853 cc,95 cv,875 mm
+68,BMW,F 850 GS 40 Aniversario,12.100 €,A/A2,Trail,2021,https://www.bmw-motorrad.es,853 cc,95 cv,860 mm
+69,BMW,F 850 GS 2021,12.100 €,A/A2,Trail,2021,https://www.bmw-motorrad.es,853 cc,95 cv,860 mm
+70,BMW,F 750 GS 40 Aniversario,9.650 €,A/A2,Trail,2021,https://www.bmw-motorrad.es,853 cc,77 cv,815 mm
+71,BMW,F 750 GS 2021,9.650 €,A/A2,Trail,2021,https://www.bmw-motorrad.es,853 cc,77 cv,815 mm
+72,BMW,R18 2020,24.590 €,A,Custom,2020,https://www.bmw-motorrad.es,1.802 cc,91 cv,690 mm
+73,BMW,F 900 XR 2020,11.950 €,A/A2,Touring,2019,https://www.bmw-motorrad.es,895 cc,105 cv,860 mm
+74,BMW,F 900 R 2020,8.995 €,A/A2,Touring,2019,https://www.bmw-motorrad.es,895 cc,105 cv,815 mm
+75,BMW,S 1000 XR 2020,17.200 €,A,Touring,2020,https://www.bmw-motorrad.es,999 cc,165 cv,840 mm
+76,BMW,R Nine T Urban GS Puntapunta 2020,14.100 €,A / A2,Trail,2019,https://www.bmw-motorrad.es,1.170 cc,110 cv,850 mm
+77,BMW,R NineT 5 2020,16.450 €,A,Naked,2019,https://www.bmw-motorrad.es,1.170 cc,110 cv,785 mm
+78,BMW,R 1250 RT 2020,20.050 €,A,Touring,2019,https://www.bmw-motorrad.es,1.254 cc,136 cv,805 mm
+79,BMW,K 1600 B Grand America 2020,29.927 €,A,Touring,2019,https://www.bmw-motorrad.es,1.649 cc,160 cv,810 mm
+80,BMW,K 1600 B 2020,26.200 €,A,Touring,2019,https://www.bmw-motorrad.es,1.649 cc,160 cv,810 mm
+81,BMW,K 1600 GTL 2020,27.100 €,A,Touring,2019,https://www.bmw-motorrad.es,1.649 cc,160 cv,810 mm
+82,BMW,K 1600 GT 2020,26.200 €,A,Touring,2019,https://www.bmw-motorrad.es,1.649 cc,160 cv,810 mm
+83,BMW,S 1000 RR 2020,21.250 €,A,Deportiva,2020,https://www.bmw-motorrad.es,999 cc,207 cv,824 mm
+84,BMW,S 1000 R 2020,15.650 €,A,Naked,2019,https://www.bmw-motorrad.es,999 cc,165 cv,814 mm
+85,BMW,F 850 GS Rallye 2020,13.200 €,A/A2,Trail,2019,https://www.bmw-motorrad.es,853 cc,95 cv,860 mm
+86,BMW,C 650 GT 2020,12.821 €,A/A2,Scooter,2019,https://www.bmw-motorrad.es,647 cc,60 cv,780 mm
+87,BMW,C 650 Sport 2020,13.135 €,A/A2,Scooter,2020,https://www.bmw-motorrad.es,647 cc,60 cv,810 mm
+88,BMW,G 310 GS 2020,6.200 €,A2,Trail,2019,https://www.bmw-motorrad.es,313 cc,34 cv,835 mm
+89,BMW,G 310 R 2020,5.350 €,A2,Naked,2019,https://www.bmw-motorrad.es,313 cc,34 cv,785 mm
+90,BMW,S 1000 RR 2019,21.250 €,A,Deportiva,2019,https://www.bmw-motorrad.es,999 cc,207 cv,824 mm
+91,BMW,R 1250 R HP 2019,14.800 €,A,Deportiva,2019,https://www.bmw-motorrad.es,1.254 cc,136 cv,820 mm
+92,BMW,R 1250 R 2019,14.800 €,A,Deportiva,2019,https://www.bmw-motorrad.es,1.254 cc,136 cv,820 mm
+93,BMW,R 1250 RS 2019,15.650 €,A,Deportiva,2019,https://www.bmw-motorrad.es,1.254 cc,136 cv,820 mm
+94,BMW,BMW R 1250 GS Adventure 2019,19.950 €,A,Trail,2019,https://www.bmw-motorrad.es,1.254 cc,136 cv,952 mm
+95,BMW,F 850 GS Adventure 2019,13.200 €,A/A2,Trail,2019,https://www.bmw-motorrad.es,853 cc,95 cv,875 mm
+96,BMW,C 400 GT 2019,8.606 €,A2,Scooter,2019,https://www.bmw-motorrad.es,350 cc,34 cv,775 mm
+97,BMW,BMW R 1250 GS 2019,18.200 €,A,Trail,2019,https://www.bmw-motorrad.es,1.254 cc,136 cv,850 mm
+98,BMW,BMW R 1250 GS HP 2019,18.200 €,A,Trail,2019,https://www.bmw-motorrad.es,1.254 cc,136 cv,850 mm
+99,BMW,R 1250 RT 2019,20.050 €,A,Touring,2019,https://www.bmw-motorrad.es,1.254 cc,136 cv,805 mm
+100,BMW,R Nine T Racer 2018,14.400 €,A / A2,Deportiva,2017,https://www.bmw-motorrad.es,1.170 cc,110 cv,1.105 mm
+101,BMW,R Nine T Urban GS 2018,14.100 €,A / A2,Trail,2017,https://www.bmw-motorrad.es,1.170 cc,110 cv,850 mm
+102,BMW,K 1600 Grand America 2018,29.917 €,A,Touring,2018,https://www.bmw-motorrad.es,1.649 cc,160 cv,780 mm
+103,BMW,C 400 X 2018,7.506 €,A2,Scooter,2018,https://www.bmw-motorrad.es,350 cc,34 cv,775 mm
+104,BMW,F 750 GS,9.560 €,A/A2,Trail,2018,https://www.bmw-motorrad.es,853 cc,77 cv,815 mm
+105,BMW,F 850 GS 2018,11.860 €,A/A2,Trail,2018,https://www.bmw-motorrad.es,853 cc,95 cv,860 mm
+106,BMW,R nineT Motorrad Spezial,15.550 €,A,Custom,2018,https://www.bmw-motorrad.es,1.170 cc,110 cv,785 mm
+107,BMW,R 1200 RT 2018,18.900 €,A,Touring,2018,https://www.bmw-motorrad.es,1.170 cc,125 cv,805 mm
+108,BMW,BMW R 1200 GS 2018,16.600 €,A,Trail,2018,https://www.bmw-motorrad.es,1.170 cc,125 cv,850 mm
+109,BMW,S 1000 R 2017,14.350 €,A,Naked,2017,https://www.bmw-motorrad.es,999 cc,165 cv,814 mm
+110,BMW,BMW R 1200 GS 2017,16.600 €,A,Trail,2017,https://www.bmw-motorrad.es,1.170 cc,125 cv,850 mm
+111,BMW,K 1600 GT 2017,24.600 €,A,Touring,2017,https://www.bmw-motorrad.es,1.649 cc,160 cv,810 mm
+112,BMW,G 310 GS 2017,6.050 €,A2,Trail,2017,https://www.bmw-motorrad.es,313 cc,34 cv,835 mm
+113,BMW,C 650 GT,11.700 €,A/A2,Scooter,2016,https://www.bmw-motorrad.es,647 cc,60 cv,780 mm
+114,BMW,C 650 SPORT,11.400 €,A/A2,Scooter,2016,https://www.bmw-motorrad.es,647 cc,60 cv,810 mm
+115,BMW,HP4,23.750 €,A,Deportiva,2016,https://www.bmw-motorrad.es,999 cc,193 cv,820 mm
+116,BMW,S 1000 RR,18.950 €,A,Deportiva,2016,https://www.bmw-motorrad.es,999 cc,198 cv,815 mm
+117,BMW,F 800 GS,11.200 €,A/A2,Trail,2016,https://www.bmw-motorrad.es,798 cc,85 cv,880 mm
+118,BMW,K 1600 GTL,25.100 €,A,Touring,2016,https://www.bmw-motorrad.es,1.649 cc,160 cv,750 mm
+119,BMW,S 1000 XR,17.200 €,A,Touring,2016,https://www.bmw-motorrad.es,999 cc,160 cv,840 mm
+120,BMW,F 700 GS,9.000 €,A/A2,Trail,2016,https://www.bmw-motorrad.es,798 cc,75 cv,820 mm
+121,BMW,R 1200 R,13.600 €,A,Naked,2016,https://www.bmw-motorrad.es,1.170 cc,125 cv,790 mm
+122,BMW,R 1200 GS,16.600 €,A,Trail,2016,https://www.bmw-motorrad.es,1.170 cc,125 cv,850 mm
+123,BMW,R 1200 RS,14.500 €,A,Deportiva,2016,https://www.bmw-motorrad.es,1.170 cc,125 cv,820 mm
+124,BMW,F 800 GT,10.400 €,A/A2,Touring,2016,https://www.bmw-motorrad.es,798 cc,90 cv,800 mm
+125,BMW,R 1200 RT 2016,18.900 €,A,Touring,2016,https://www.bmw-motorrad.es,1.170 cc,125 cv,805 mm
+126,BMW,F 800 R,9.100 €,A/A2,Naked,2016,https://www.bmw-motorrad.es,798 cc,90 cv,790 mm
+127,BMW,R nineT,16.450 €,A,Custom,2016,https://www.bmw-motorrad.es,1.170 cc,110 cv,785 mm
+128,BMW,G 310 R,5.200 €,A2,Naked,2016,https://www.bmw-motorrad.es,313 cc,34 cv,785 mm
+129,BMW,R nineT Scrambler,14.100 €,A,Custom,2016,https://www.bmw-motorrad.es,1.170 cc,110 cv,785 mm
+130,BMW,G 650 GS,7.500 €,A2,Trail,2016,https://www.bmw-motorrad.es,652 cc,48 cv,800 mm
+131,BMW,S 1000 R,14.350 €,A,Naked,2016,https://www.bmw-motorrad.es,999 cc,160 cv,814 mm
+132,Ducati,Panigale V4 SP2 2022,42.390 €,A,Deportiva,2022,https://www.ducati.com/es/es/,1.103 cc,215 cv,835 mm
+133,Ducati,Panigale V4S 2022,32.990 €,A,Deportiva,2022,https://www.ducati.com/es/es/,1.103 cc,215 cv,850 mm
+134,Ducati,Panigale V4 2022,27.390 €,A,Deportiva,2022,https://www.ducati.com/es/es/,1.103 cc,215 cv,850 mm
+135,Ducati,Desert X 2022,16.290 €,A,Trail,2022,https://www.ducati.com/es/es/,937 cc,110 cv,875 mm
+136,Ducati,Streetfighter V4 SP 2022,34.990 €,A,Naked,2022,https://www.ducati.com/es/es/,1.103 cc,208 cv,845 mm
+137,Ducati,Streetfighter V2 2022,17.990 €,A,Naked,2022,https://www.ducati.com/es/es/,955 cc,153 cv,845 mm
+138,Ducati,Scrambler Urban Motard 2022,11.690 €,A/A2,Naked,2022,https://www.ducati.com/es/es/,803 cc,73 cv,805 mm
+139,Ducati,Scrambler 1100 Tribute Pro 2022,14.290 €,A,Naked,2022,https://www.ducati.com/es/es/,1.079 cc,86 cv,810 mm
+140,Ducati,Multistrada V4 S 2022,23.990 €,A,Trail,2022,https://www.ducati.com/es/es/,1.158 cc,170 cv,840 mm
+141,Ducati,Multistrada V4 S Travel 2022,23.990 €,A,Trail,2022,https://www.ducati.com/es/es/,1.158 cc,170 cv,840 mm
+142,Ducati,Multistrada V4 2022,20.890 €,A,Trail,2022,https://www.ducati.com/es/es/,1.158 cc,170 cv,840 mm
+143,Ducati,Multistrada V2 S Travel 2022,18.820 €,A,Trail,2022,https://www.ducati.com/es/es/,937 cc,113 cv,830 mm
+144,Ducati,Multistrada V2 S 2022,17.590 €,A,Trail,2022,https://www.ducati.com/es/es/,937 cc,113 cv,830 mm
+145,Ducati,Multistrada V2 2022,14.990 €,A,Trail,2022,https://www.ducati.com/es/es/,937 cc,113 cv,830 mm
+146,Ducati,Panigale V2 Troy Bayliss 2021,22.490 €,A,Deportiva,2021,https://www.ducati.com/es/es/,955 cc,155 cv,840 mm
+147,Ducati,1260 Diavel S Black and Steel 2021,25.190 €,A,Custom,2021,https://www.ducati.com/es/es/,1.262 cc,162 cv,780 mm
+148,Ducati,Monster Plus A2 2021,12.190 €,A2,Naked,2021,https://www.ducati.com/es/es/,937 cc,47 cv,800 mm
+149,Ducati,Monster A2 2021,11.790 €,A/A2,Naked,2021,https://www.ducati.com/es/es/,937 cc,47 cv,800 mm
+150,Ducati,Monster Plus 2021,12.190 €,A/A2,Naked,2021,https://www.ducati.com/es/es/,937 cc,111 cv,800 mm
+151,Ducati,Monster 2021,11.790 €,A/A2,Naked,2021,https://www.ducati.com/es/es/,937 cc,111 cv,800 mm
+152,Ducati,Panigale V4 SP 2021,39.990 €,A,Deportiva,2021,https://www.ducati.com/es/es/,1.103 cc,214 cv,835 mm
+153,Ducati,Panigale V4 S 2021,31.890 €,A,Deportiva,2021,https://www.ducati.com/es/es/,1.103 cc,214 cv,835 mm
+154,Ducati,Panigale V4 2021,26.490 €,A,Deportiva,2021,https://www.ducati.com/es/es/,1.103 cc,214 cv,835 mm
+155,Ducati,Panigale V2 2021,18.490 €,A,Deportiva,2021,https://www.ducati.com/es/es/,955 cc,155 cv,840 mm
+156,Ducati,Supersport 950 S 2021,15.990 €,A,Deportiva,2021,https://www.ducati.com/es/es/,937 cc,110 cv,810 mm
+157,Ducati,Supersport 950 2021,13.990 €,A,Deportiva,2021,https://www.ducati.com/es/es/,937 cc,110 cv,810 mm
+158,Ducati,Multistrada V4 S 2021,23.990 €,A,Trail,2021,https://www.ducati.com/es/es/,1.158 cc,170 cv,840 mm
+159,Ducati,Multistrada V4 2021,20.890 €,A,Trail,2021,https://www.ducati.com/es/es/,1.158 cc,170 cv,840 mm
+160,Ducati,Scrambler 1100 Pro 2020,13.790 €,A/A2,Naked,2020,https://www.ducati.com/es/es/,1.079 cc,86 cv,810 mm
+161,Ducati,Scrambler 1100 Sport Pro 2020,15.790 €,A/A2,Naked,2020,https://www.ducati.com/es/es/,1.079 cc,86 cv,810 mm
+162,Ducati,Multistrada 1260 Grand Tour 2020,22.890 €,A,Trail,2019,https://www.ducati.com/es/es/,1.262 cc,158 cv,825 mm
+163,Ducati,Panigale V4 S 2020,31.590 €,A,Deportiva,2019,https://www.ducati.com/es/es/,1.103 cc,214 cv,830 mm
+164,Ducati,Panigale V4 2020,26.190 €,A,Deportiva,2019,https://www.ducati.com/es/es/,1.103 cc,214 cv,830 mm
+165,Ducati,Panigale V2 2020,18.490 €,A,Deportiva,2019,https://www.ducati.com/es/es/,955 cc,155 cv,840 mm
+166,Ducati,Streetfighter V4 S 2020,25.490 €,A,Naked,2020,https://www.ducati.com/es/es/,1.103 cc,208 cv,845 mm
+167,Ducati,Streetfighter V4 2020,21.990 €,A,Naked,2020,https://www.ducati.com/es/es/,1.103 cc,208 cv,845 mm
+168,Ducati,Monster 1200 S Black on Black 2020,18.090 €,A,Naked,2019,https://www.ducati.com/es/es/,1.198 cc,150 cv,795 mm
+169,Ducati,Panigale V4 25 Aniversario 916,48.000 €,A,Deportiva,2019,https://www.ducati.com/es/es/,1.103 cc,214 cv,830 mm
+170,Ducati,Panigale V4 R 2019,39.990 €,A,Deportiva,2019,https://www.ducati.com/es/es/,998 cc,221 cv,830 mm
+171,Ducati,950 Hypermotard SP 2019,16.890 €,A,Deportiva,2019,https://www.ducati.com/es/es/,937 cc,114 cv,870 mm
+172,Ducati,950 Hypermotard 2019,16.890 €,A,Deportiva,2019,https://www.ducati.com/es/es/,937 cc,114 cv,870 mm
+173,Ducati,Monster 797 Plus 2019,9.090 €,A/A2,Naked,2019,https://www.ducati.com/es/es/,803 cc,75 cv,805 mm
+174,Ducati,Monster 821 Stealth 2019,12.590 €,A,Naked,2019,https://www.ducati.com/es/es/,821 cc,109 cv,785 mm
+175,Ducati,Multistrada 950 2019,14.390 €,A,Trail,2019,https://www.ducati.com/es/es/,937 cc,113 cv,840 mm
+176,Ducati,Multistrada 950 S 2019,16.390 €,A,Trail,2019,https://www.ducati.com/es/es/,937 cc,113 cv,840 mm
+177,Ducati,1260 Diavel S 2019,23.590 €,A,Custom,2019,https://www.ducati.com/es/es/,1.262 cc,159 cv,780 mm
+178,Ducati,1260 Diavel 2019,20.390 €,A,Custom,2019,https://www.ducati.com/es/es/,1.262 cc,159 cv,780 mm
+179,Ducati,XDiavel S 2019,23.790 €,A,Custom,2019,https://www.ducati.com/es/es/,1.262 cc,156 cv,755 mm
+180,Ducati,Multistrada 1260 Enduro 2019,21.890 €,A,Trail,2019,https://www.ducati.com/es/es/,1.262 cc,158 cv,860 mm
+181,Ducati,Scrambler Cafe Racer 2019,11.690 €,A/A2,Naked,2019,https://www.ducati.com/es/es/,803 cc,73 cv,805 mm
+182,Ducati,Scrambler Desert Sled 2019,11.790 €,A/A2,Trail,2019,https://www.ducati.com/es/es/,803 cc,73 cv,860 mm
+183,Ducati,Scrambler Full Throttle 2019,10.790 €,A/A2,Naked,2019,https://www.ducati.com/es/es/,803 cc,73 cv,798 mm
+184,Ducati,Scrambler Icon 2019,9.190 €,A/A2,Naked,2019,https://www.ducati.com/es/es/,803 cc,73 cv,798 mm
+185,Ducati,Monster 1200 25 aniversario 2018,20.690 €,A,Naked,2018,https://www.ducati.com/es/es/,1.198 cc,147 cv,795 mm
+186,Ducati,Scrambler Sport 1100 2018,15.190 €,A/A2,Naked,2018,https://www.ducati.com/es/es/,1.079 cc,86 cv,810 mm
+187,Ducati,Scrambler 1100 Special 2018,14.490 €,A/A2,Naked,2018,https://www.ducati.com/es/es/,1.079 cc,86 cv,810 mm
+188,Ducati,XDiavel S 2018,23.790 €,A,Custom,2018,https://www.ducati.com/es/es/,1.262 cc,156 cv,755 mm
+189,Ducati,Multistrada 1260,17.890 €,A,Trail,2018,https://www.ducati.com/es/es/,1.262 cc,158 cv,825 mm
+190,Ducati,Scrambler 1100,13.190 €,A/A2,Naked,2018,https://www.ducati.com/es/es/,1.079 cc,86 cv,810 mm
+191,Ducati,Panigale V4 2018,25.190 €,A,Deportiva,2018,https://www.ducati.com/es/es/,1.103 cc,214 cv,830 mm
+192,Ducati,Monster 821 2018,10.990 €,A,Naked,2018,https://www.ducati.com/es/es/,821 cc,109 cv,785 mm
+193,Ducati,Multistrada Enduro Pro,16.990 €,A,Trail,2017,https://www.ducati.com/es/es/,1.198 cc,152 cv,870 mm
+194,Ducati,Monster 1200 2017,13.990 €,A,Naked,2017,https://www.ducati.com/es/es/,1.198 cc,150 cv,795 mm
+195,Ducati,Scrambler Desert Sled 2017,11.190 €,A/ A2,Trail,2017,https://www.ducati.com/es/es/,803 cc,75 cv,860 mm
+196,Ducati,Scrambler Café Racer 2017,8.990 €,A/ A2,Naked,2017,https://www.ducati.com/es/es/,803 cc,75 cv,805 mm
+197,Ducati,Multistrada 950 2017,13.990 €,A,Trail,2017,https://www.ducati.com/es/es/,937 cc,113 cv,840 mm
+198,Ducati,Monster 821 2017,10.490 €,A,Naked,2017,https://www.ducati.com/es/es/,821 cc,112 cv,785 mm
+199,Ducati,Monster 797 2017,8.990 €,A/ A2,Naked,2017,https://www.ducati.com/es/es/,803 cc,75 cv,805 mm
+200,Ducati,Monster 1200 S 2017,17.290 €,A,Naked,2017,https://www.ducati.com/es/es/,1.198 cc,150 cv,795 mm
+201,Ducati,Ducati 939 Supersport 2017,13.290 €,A,Deportiva,2017,https://www.ducati.com/es/es/,937 cc,113 cv,810 mm
+202,Ducati,Scrambler Full Throttle,10.350 €,A,Naked,2016,https://www.ducati.com/es/es/,803 cc,75 cv,790 mm
+203,Ducati,Scrambler Icon,8.790 €,A,Naked,2016,https://www.ducati.com/es/es/,803 cc,75 cv,790 mm
+204,Ducati,Scrambler Sixty 2,7.790 €,A2,Naked,2016,https://www.ducati.com/es/es/,399 cc,41 cv,790 mm
+205,Ducati,Diavel Carbon,22.290 €,A,Naked,2016,https://www.ducati.com/es/es/,1.184 cc,162 cv,770 mm
+206,Ducati,959 Panigale 2016,16.690 €,A,Deportiva,2016,https://www.ducati.com/es/es/,955 cc,158 cv,830 mm
+207,Ducati,Scrambler Classic,10.350 €,A/A2,Custom,2016,https://www.ducati.com/es/es/,803 cc,75 cv,790 mm
+208,Ducati,899 Panigale,16.240 €,A,Deportiva,2016,https://www.ducati.com/es/es/,898 cc,148 cv,830 mm
+209,Ducati,Diavel,19.450 €,A,Custom,2016,https://www.ducati.com/es/es/,1.184 cc,162 cv,770 mm
+210,Ducati,Monster 1200,13.490 €,A,Naked,2016,https://www.ducati.com/es/es/,1.198 cc,135 cv,785 mm
+211,Ducati,Monster 821,11.240 €,A/A2,Naked,2016,https://www.ducati.com/es/es/,821 cc,112 cv,785 mm
+212,Ducati,Monster 1200 S,16.990 €,A,Naked,2016,https://www.ducati.com/es/es/,1.198 cc,145 cv,785 mm
+213,Ducati,Multistrada,16.990 €,A,Trail,2016,https://www.ducati.com/es/es/,1.198 cc,160 cv,825 mm
+214,Ducati,Streetfighter 848,14.350 €,A,Naked,2016,https://www.ducati.com/es/es/,849 cc,132 cv,840 mm
+215,Ducati,Panigale 1199 Superleggera,70.000 €,A,Deportiva,2016,https://www.ducati.com/es/es/,1.199 cc,200 cv,825 mm
+216,Honda,CB750 Hornet 2023,7.650 €,A/A2,Naked,2022,https://www.honda.es,755 cc,92 cv,795 mm
+217,Honda,CBR 1000 RR R Fireblade SP 2022,29.000 €,A,Deportiva,2022,https://www.honda.es,1.000 cc,215 cv,830 mm
+218,Honda,CBR 1000 RR R Fireblade 2022,24.500 €,A,Deportiva,2022,https://www.honda.es,1.000 cc,215 cv,830 mm
+219,Honda,ADV 350 2022,6.250 €,A2,Scooter,2022,https://www.honda.es,330 cc,29 cv,795 mm
+220,Honda,CMX 500 Rebel 2022,6.500 €,A2,Custom,2022,https://www.honda.es,471 cc,47 cv,690 mm
+221,Honda,CMX 1100 Rebel DCT 2022,11.800 €,A,Custom,2022,https://www.honda.es,1.084 cc,85 cv,700 mm
+222,Honda,CMX 1100 Rebel 2022,10.400 €,A,Custom,2022,https://www.honda.es,1.084 cc,85 cv,700 mm
+223,Honda,GL 1800 Gold Wing DCT 2022,29.000 €,A,Touring,2022,https://www.honda.es,1.833 cc,125 cv,745 mm
+224,Honda,GL 1800 Gold Wing Tour 2022,38.750 €,A,Touring,2022,https://www.honda.es,1.833 cc,125 cv,745 mm
+225,Honda,SH 350i 2022,5.950 €,A2,Scooter,2022,https://www.honda.es,330 cc,29 cv,805 mm
+226,Honda,NT 1100 DCT 2022,15.400 €,A,Trail,2022,https://www.honda.es,1.084 cc,100 cv,865 mm
+227,Honda,NT 1100 2022,14.400 €,A,Trail,2022,https://www.honda.es,1.084 cc,100 cv,865 mm
+228,Honda,Monkey 125 2022,4.125 €,A1,Naked,2022,https://www.honda.es,124 cc,10 cv,775 mm
+229,Honda,CBR 500 R 2022,6.900 €,A2,Deportiva,2020,https://www.honda.es,471 cc,46 cv,785 mm
+230,Honda,CB 500 F 2022,6.325 €,A2,Naked,2022,https://www.honda.es,471 cc,47 cv,790 mm
+231,Honda,CB 500 X 2022,6.850 €,A2,Trail,2022,https://www.honda.es,471 cc,46 cv,830 mm
+232,Honda,CRF 1100 L Africa Twin Adventure Sports DCT 2022,19.800 €,A,Trail,2022,https://www.honda.es,1.084 cc,100 cv,850 mm
+233,Honda,CRF 1100 L Africa Twin Adventure Sports 2022,18.700 €,A,Trail,2022,https://www.honda.es,1.084 cc,100 cv,850 mm
+234,Honda,CRF 1100 L Africa Twin DCT 2022,16.350 €,A,Trail,2022,https://www.honda.es,1.084 cc,100 cv,850 mm
+235,Honda,CRF 1100 L Africa Twin 2022,15.200 €,A,Trail,2022,https://www.honda.es,1.084 cc,100 cv,850 mm
+236,Honda,Super Cub 125 2022,3.800 €,A1,Scooter,2022,https://www.honda.es,124 cc,10 cv,780 mm
+237,Honda,GL 1800 Gold Wing Tour 2021,38.750 €,A,Touring,2021,https://www.honda.es,1.833 cc,125 cv,745 mm
+238,Honda,CRF 300 L 2021,5.500 €,A2,Offroad,2021,https://www.honda.es,286 cc,27 cv,885 mm
+239,Honda,CRF 300 Rally 2021,6.100 €,A2,Trail,2021,https://www.honda.es,286 cc,27 cv,885 mm
+240,Honda,PXC 125 2021,3.100 €,A1,Scooter,2021,https://www.honda.es,125 cc,12 cv,764 mm
+241,Honda,CB 1000 R 2021,15.050 €,A,Naked,2021,https://www.honda.es,998 cc,143 cv,830 mm
+242,Honda,X ADV 2021,11.850 €,A/A2,Scooter,2021,https://www.honda.es,745 cc,57 cv,820 mm
+243,Honda,SH 125 Mode 2021,2.990 €,A1,Scooter,2021,https://www.honda.es,125 cc,11 cv,765 mm
+244,Honda,NC 750 X 2021,8.050 €,A/A2,Trail,2021,https://www.honda.es,745 cc,57 cv,830 mm
+245,Honda,NC 750 X DCT 2021,8.850 €,A/A2,Touring,2021,https://www.honda.es,745 cc,57 cv,830 mm
+246,Honda,CB 125 R 2021,4.300 €,A1,Naked,2021,https://www.honda.es,125 cc,14 cv,816 mm
+247,Honda,MSX 125 GROM 2021,3.399 €,A1,Naked,2021,https://www.honda.es,125 cc,10 cv,761 mm
+248,Honda,Forza 125 2021,5.075 €,A1,Scooter,2021,https://www.honda.es,125 cc,14 cv,780 mm
+249,Honda,CRF 1100 L Africa Twin 2021,18.500 €,A,Trail,2021,https://www.honda.es,1.084 cc,100 cv,850 mm
+250,Honda,CB 125 F 2021,2.750 €,A1,Naked,2021,https://www.honda.es,124 cc,11 cv,790 mm
+251,Honda,CB 650 R 2021,8.150 €,A / A2,Naked,2021,https://www.honda.es,649 cc,93 cv,810 mm
+252,Honda,CBR 650 R 2021,9.150 €,A / A2,Deportiva,2021,https://www.honda.es,649 cc,93 cv,810 mm
+253,Honda,CBR 500 R 2021,6.800 €,A2,Deportiva,2020,https://www.honda.es,471 cc,46 cv,785 mm
+254,Honda,CB 500 X 2021,6.750 €,A2,Trail,2019,https://www.honda.es,471 cc,46 cv,830 mm
+255,Honda,CB 500 F 2021,6.250 €,A2,Naked,2020,https://www.honda.es,471 cc,47 cv,790 mm
+256,Honda,GL 1800 Gold Wing Tour DCT SE 2020,38.700 €,A,Touring,2020,https://www.honda.es,1.833 cc,125 cv,745 mm
+257,Honda,GL 1800 Gold Wing Tour DCT 2020,38.500 €,A,Touring,2020,https://www.honda.es,1.833 cc,125 cv,745 mm
+258,Honda,GL 1800 Gold Wing DCT 2020,28.500 €,A,Touring,2020,https://www.honda.es,1.833 cc,125 cv,745 mm
+259,Honda,CB 1000 R 2020,14.800 €,A,Naked,2020,https://www.honda.es,998 cc,143 cv,830 mm
+260,Honda,Rebel S 2020,6.200 €,A2,Custom,2020,https://www.honda.es,471 cc,47 cv,690 mm
+261,Honda,SH 125 Scoopy 2020,3.800 €,A1,Scooter,2020,https://www.honda.es,125 cc,12 cv,799 mm
+262,Honda,CBR 1000 RR R Fireblade SP 2020,25.100 €,A,Deportiva,2020,https://www.honda.es,999 cc,215 cv,830 mm
+263,Honda,CBR 1000 RR R Fireblade 2020,16.999 €,A,Deportiva,2020,https://www.honda.es,999 cc,215 cv,830 mm
+264,Honda,GL 1800 Gold Wing 2020,27.500 €,A,Touring,2020,https://www.honda.es,1.833 cc,125 cv,745 mm
+265,Honda,CRF 1100 L Africa Twin Adventure Sports 2020,18.300 €,A,Trail,2019,https://www.honda.es,1.084 cc,100 cv,850 mm
+266,Honda,CRF 1100 L Africa Twin 2020,14.800 €,A,Trail,2019,https://www.honda.es,1.084 cc,100 cv,850 mm
+267,Honda,CRF 250 L 2019,4.990 €,A2,Offroad,2019,https://www.honda.es,250 cc,25 cv,875 mm
+268,Honda,CRF 250 Rally 2019,6.050 €,A2,Offroad,2019,https://www.honda.es,250 cc,24 cv,895 mm
+269,Honda,NC 750 X Travel Edition DCT 2019,9.000 €,A2,Touring,2019,https://www.honda.es,745 cc,54 cv,830 mm
+270,Honda,NC 750 X Travel Edition 2019,8.200 €,A2,Touring,2019,https://www.honda.es,745 cc,54 cv,830 mm
+271,Honda,CRF 1000 L África Twin Adventure Sports 2019,15.350 €,A/A2,Trail,2019,https://www.honda.es,998 cc,95 cv,920 mm
+272,Honda,CRF 1000 L África Twin 2019,13.600 €,A/A2,Trail,2019,https://www.honda.es,998 cc,95 cv,870 mm
+273,Honda,X ADV 2019,11.650 €,A2/A,Scooter,2019,https://www.honda.es,745 cc,54 cv,820 mm
+274,Honda,SH 125 2019,3.389 €,A1,Scooter,2019,https://www.honda.es,125 cc,12 cv,799 mm
+275,Honda,Rebel 2019,6.200 €,A2,Custom,2019,https://www.honda.es,471 cc,47 cv,690 mm
+276,Honda,NC 750 X 2019,8.000 €,A2,Touring,2019,https://www.honda.es,745 cc,54 cv,830 mm
+277,Honda,Integra 2019,9.349 €,A2,Scooter,2019,https://www.honda.es,745 cc,53 cv,790 mm
+278,Honda,CB 1000 R 2019,14.800 €,A,Naked,2019,https://www.honda.es,998 cc,143 cv,830 mm
+279,Honda,CBR 1000 RR Fireblade 2019,16.999 €,A,Deportiva,2019,https://www.honda.es,999 cc,189 cv,832 mm
+280,Honda,GL 1800 Gold Wing 2019,27.700 €,A,Touring,2019,https://www.honda.es,1.833 cc,125 cv,745 mm
+281,Honda,CBR 500 R 2019,6.750 €,A2,Deportiva,2019,https://www.honda.es,471 cc,46 cv,785 mm
+282,Honda,CB 500 X 2019,6.700 €,A2,Trail,2019,https://www.honda.es,471 cc,46 cv,830 mm
+283,Honda,CB 500 F 2019,6.200 €,A2,Naked,2019,https://www.honda.es,471 cc,47 cv,790 mm
+284,Honda,CB 650 R 2019,9.100 €,A,Naked,2019,https://www.honda.es,649 cc,96 cv,810 mm
+285,Honda,CBR 650 R 2019,9.100 €,A / A2,Deportiva,2019,https://www.honda.es,649 cc,96 cv,810 mm
+286,Honda,CRF 250 L 2018,4.799 €,A2,Offroad,2018,https://www.honda.es,250 cc,25 cv,875 mm
+287,Honda,PXC 125 2018,2.899 €,A1,Scooter,2018,https://www.honda.es,125 cc,12 cv,764 mm
+288,Honda,Forza 300 2018,5.800 €,A2,Scooter,2018,https://www.honda.es,279 cc,25 cv,780 mm
+289,Honda,CRF 1000 L África Twin Adventure Sports,15.350 €,A/A2,Trail,2018,https://www.honda.es,998 cc,95 cv,920 mm
+290,Honda,GL 1800 Gold Wing Tour 2018,37.500 €,A,Touring,2018,https://www.honda.es,1.833 cc,125 cv,745 mm
+291,Honda,GL 1800 Gold Wing 2018,27.700 €,A,Touring,2018,https://www.honda.es,1.833 cc,125 cv,745 mm
+292,Honda,CB 300 R 2018,5.075 €,A2,Naked,2018,https://www.honda.es,286 cc,31 cv,799 mm
+293,Honda,CB 125 R 2018,4.275 €,A1,Naked,2018,https://www.honda.es,125 cc,13 cv,775 mm
+294,Honda,CRF 1000 L Africa Twin 2018,13.600 €,A/A2,Trail,2016,https://www.honda.es,998 cc,95 cv,870 mm
+295,Honda,VFR 800X Crossrunner 2017,13.499 €,A,Trail,2017,https://www.honda.es,782 cc,104 cv,835 mm
+296,Honda,Vision 110 2017,2.049 €,A1,Scooter,2017,https://www.honda.es,108 cc,8 cv,760 mm
+297,Honda,SH 125 Scoopy 2017,3.389 €,A1,Scooter,2017,https://www.honda.es,125 cc,12 cv,799 mm
+298,Honda,Forza 125 2017,4.799 €,A1,Scooter,2017,https://www.honda.es,125 cc,14 cv,780 mm
+299,Honda,CB 1100 EX 2017,13.499 €,A,Naked,2017,https://www.honda.es,1.140 cc,89 cv,790 mm
+300,Honda,CBR 1000 RR Fireblade SP 2017,19.980 €,A,Deportiva,2017,https://www.honda.es,999 cc,189 cv,820 mm
+301,Honda,CBR 1000 RR Fireblade 2017,16.999 €,A,Deportiva,2017,https://www.honda.es,999 cc,189 cv,832 mm
+302,Honda,GL 1800 Gold Wing,32.925 €,A,Touring,2016,https://www.honda.es,1.832 cc,118 cv,740 mm
+303,Honda,NC 750 X,7.649 €,A2,Touring,2016,https://www.honda.es,745 cc,54 cv,830 mm
+304,Honda,VFR 800 F,13.499 €,A,Touring,2016,https://www.honda.es,782 cc,106 cv,789 mm
+305,Honda,MSX 125,3.249 €,A1,Naked,2016,https://www.honda.es,124 cc,10 cv,765 mm
+306,Honda,Crosstourer,16.199 €,A,Trail,2016,https://www.honda.es,1.237 cc,129 cv,850 mm
+307,Honda,ST 1300 Pan European,19.159 €,A,Touring,2016,https://www.honda.es,1.261 cc,126 cv,790 mm
+308,Honda,Forza,4.799 €,A1,Scooter,2016,https://www.honda.es,125 cc,14 cv,780 mm
+309,Honda,NT 700 V Deauville,10.519 €,A,Touring,2016,https://www.honda.es,680 cc,65 cv,805 mm
+310,Honda,GL 1800 GoldWing F6B,25.749 €,A,Touring,2016,https://www.honda.es,1.832 cc,118 cv,725 mm
+311,Honda,VFR 800 X Crossrunner,13.499 €,A,Trail,2016,https://www.honda.es,782 cc,106 cv,815 mm
+312,Honda,Vision,2.049 €,A1,Scooter,2016,https://www.honda.es,108 cc,8 cv,755 mm
+313,Honda,NC 700 X,8.229 €,A2,Trail,2016,https://www.honda.es,745 cc,54 cv,830 mm
+314,Honda,NM4 Vultus,11.499 €,A,Touring,2016,https://www.honda.es,745 cc,54 cv,650 mm
+315,Honda,Wave 110i,1.849 €,A1,Scooter,2016,https://www.honda.es,109 cc,8 cv,760 mm
+316,Honda,NC 750 s,7.449 €,A2,Naked,2016,https://www.honda.es,745 cc,54 cv,790 mm
+317,Honda,PCX 125,2.849 €,A1,Scooter,2016,https://www.honda.es,124 cc,11 cv,760 mm
+318,Honda,SH 125i,3.499 €,A1,Scooter,2016,https://www.honda.es,125 cc,11 cv,799 mm
+319,Honda,CTX 700,8.899 €,A2,Touring,2014,https://www.honda.es,669 cc,47 cv,720 mm
+320,Honda,SH 300i,5.689 €,A2,Scooter,2016,https://www.honda.es,279 cc,25 cv,805 mm
+321,Honda,CB 1000 R,11.459 €,A,Naked,2016,https://www.honda.es,989 cc,125 cv,825 mm
+322,Honda,CBR 600 RR,13.099 €,A,Deportiva,2016,https://www.honda.es,599 cc,120 cv,823 mm
+323,Honda,CB 1100 EX,13.499 €,A,Custom,2016,https://www.honda.es,1.140 cc,89 cv,795 mm
+324,Honda,CRF 1000 L África Twin 2016,13.600 €,A/A2,Trail,2016,https://www.honda.es,998 cc,95 cv,870 mm
+325,Honda,CB 125 F,2.349 €,A1,Naked,2016,https://www.honda.es,124 cc,11 cv,775 mm
+326,Honda,CRF 250 M,4.759 €,A2,Offroad,2016,https://www.honda.es,249 cc,22 cv,855 mm
+327,Honda,CB 500 F,5.799 €,A2,Naked,2016,https://www.honda.es,471 cc,47 cv,790 mm
+328,Honda,CRF,4.459 €,A2,Offroad,2016,https://www.honda.es,249 cc,22 cv,875 mm
+329,Honda,CB 500 X,6.249 €,A2,Trail,2016,https://www.honda.es,471 cc,46 cv,810 mm
+330,Honda,CBR 1000 RR Fireblade,16.739 €,A,Deportiva,2016,https://www.honda.es,999 cc,180 cv,820 mm
+331,Honda,CBR 125 R,3.499 €,A1,Deportiva,2016,https://www.honda.es,124 cc,12 cv,793 mm
+332,Honda,CBR 500 R,6.249 €,A2,Deportiva,2016,https://www.honda.es,471 cc,46 cv,790 mm
+333,Honda,Integra,9.349 €,A2,Scooter,2016,https://www.honda.es,745 cc,53 cv,790 mm
+334,Yamaha,R6 Race 2022,13.199 €,A,Deportiva,2022,https://www.yamaha-motor.eu/es/es/,599 cc,118 cv,850 mm
+335,Yamaha,R7 60 Aniversario,9.799 €,A,Deportiva,2022,https://www.yamaha-motor.eu/es/es/,689 cc,73 cv,835 mm
+336,Yamaha,R7 2022,9.399 €,A,Deportiva,2022,https://www.yamaha-motor.eu/es/es/,689 cc,73 cv,835 mm
+337,Yamaha,Tenere 700 World Raid 2022,12.599 €,A,Trail,2022,https://www.yamaha-motor.eu/es/es/,689 cc,72 cv,875 mm
+338,Yamaha,Tenere 700 Rally Edition 2022,11.899 €,A,Trail,2022,https://www.yamaha-motor.eu/es/es/,689 cc,72 cv,875 mm
+339,Yamaha,Tenere 700 2022,10.299 €,A,Trail,2022,https://www.yamaha-motor.eu/es/es/,689 cc,72 cv,875 mm
+340,Yamaha,XSR 700 XTribute 2022,8.799 €,A/A2,Naked,2022,https://www.yamaha-motor.eu/es/es/,689 cc,74 cv,855 mm
+341,Yamaha,MT 09 SP 2022,11.899 €,A,Naked,2022,https://www.yamaha-motor.eu/es/es/,890 cc,94 cv,825 mm
+342,Yamaha,MT 09 2022,9.999 €,A,Naked,2022,https://www.yamaha-motor.eu/es/es/,890 cc,119 cv,825 mm
+343,Yamaha,T Max 560 2022,12.499 €,A/A2,Scooter,2022,https://www.yamaha-motor.eu/es/es/,562 cc,46 cv,800 mm
+344,Yamaha,XSR 125 2021,4.399 €,A1,Naked,2021,https://www.yamaha-motor.eu/es/es/,124 cc,15 cv,815 mm
+345,Yamaha,Tracer 7 2021,8.599 €,A/A2,Trail,2019,https://www.yamaha-motor.eu/es/es/,689 cc,74 cv,835 mm
+346,Yamaha,X Max 300 2021,5.999 €,A2,Scooter,2021,https://www.yamaha-motor.eu/es/es/,292 cc,28 cv,795 mm
+347,Yamaha,X Max 125 2021,4.999 €,A1,Scooter,2021,https://www.yamaha-motor.eu/es/es/,124 cc,14 cv,800 mm
+348,Yamaha,T Max 560 2021,12.499 €,A/A2,Scooter,2021,https://www.yamaha-motor.eu/es/es/,562 cc,46 cv,800 mm
+349,Yamaha,Tracer 9 GT 2021,14.299 €,A,Trail,2021,https://www.yamaha-motor.eu/es/es/,890 cc,119 cv,810 mm
+350,Yamaha,Tracer 9 2021,11.799 €,A,Trail,2021,https://www.yamaha-motor.eu/es/es/,890 cc,119 cv,810 mm
+351,Yamaha,Tracer 7 GT 2021,9.359 €,A/A2,Trail,2021,https://www.yamaha-motor.eu/es/es/,689 cc,72 cv,840 mm
+352,Yamaha,MT 07 2021,6.999 €,A/A2,Naked,2021,https://www.yamaha-motor.eu/es/es/,689 cc,73 cv,805 mm
+353,Yamaha,MT 09 2021,9.899 €,A,Naked,2021,https://www.yamaha-motor.eu/es/es/,890 cc,119 cv,825 mm
+354,Yamaha,Tracer 700 2020,8.599 €,A/A2,Trail,2020,https://www.yamaha-motor.eu/es/es/,689 cc,72 cv,840 mm
+355,Yamaha,T Max 560 Tech 2020,14.399 €,A/A2,Scooter,2019,https://www.yamaha-motor.eu/es/es/,562 cc,46 cv,800 mm
+356,Yamaha,T Max 560 2020,12.499 €,A/A2,Scooter,2019,https://www.yamaha-motor.eu/es/es/,562 cc,46 cv,800 mm
+357,Yamaha,MT 125 2020,4.549 €,A1,Naked,2019,https://www.yamaha-motor.eu/es/es/,124 cc,15 cv,810 mm
+358,Yamaha,MT 03 2020,5.300 €,A2,Naked,2019,https://www.yamaha-motor.eu/es/es/,321 cc,42 cv,780 mm
+359,Yamaha,YZF R1M 2020,29.499 €,A,Deportiva,2019,https://www.yamaha-motor.eu/es/es/,998 cc,200 cv,860 mm
+360,Yamaha,YZF R1 2020,21.899 €,A,Deportiva,2019,https://www.yamaha-motor.eu/es/es/,998 cc,200 cv,855 mm
+361,Yamaha,Tenere 700 2019,9.499 €,A,Trail,2019,https://www.yamaha-motor.eu/es/es/,689 cc,72 cv,880 mm
+362,Yamaha,Niken 2019,17.399 €,A,Deportiva,2019,https://www.yamaha-motor.eu/es/es/,847 cc,115 cv,820 mm
+363,Yamaha,Tracer 700 GT 2019,8.299 €,A/A2,Trail,2019,https://www.yamaha-motor.eu/es/es/,689 cc,74 cv,835 mm
+364,Yamaha,Tracer 700 2019,8.299 €,A/A2,Trail,2019,https://www.yamaha-motor.eu/es/es/,689 cc,74 cv,835 mm
+365,Yamaha,Tracer 900 GT 2019,11.499 €,A,Trail,2019,https://www.yamaha-motor.eu/es/es/,847 cc,115 cv,845 mm
+366,Yamaha,Tracer 900 2019,11.499 €,A,Trail,2019,https://www.yamaha-motor.eu/es/es/,847 cc,115 cv,845 mm
+367,Yamaha,MT 10 Tourer Edition 2019,16.999 €,A,Naked,2019,https://www.yamaha-motor.eu/es/es/,998 cc,160 cv,825 mm
+368,Yamaha,MT 10 2019,15.799 €,A,Naked,2019,https://www.yamaha-motor.eu/es/es/,998 cc,160 cv,825 mm
+369,Yamaha,MT 125 2019,4.549 €,A1,Naked,2019,https://www.yamaha-motor.eu/es/es/,124 cc,15 cv,810 mm
+370,Yamaha,MT 03 2019,5.249 €,A2,Naked,2019,https://www.yamaha-motor.eu/es/es/,321 cc,42 cv,780 mm
+371,Yamaha,MT 07 2019,6.799 €,A/A2,Naked,2019,https://www.yamaha-motor.eu/es/es/,689 cc,75 cv,805 mm
+372,Yamaha,MT 09 2019,9.799 €,A,Naked,2019,https://www.yamaha-motor.eu/es/es/,847 cc,115 cv,815 mm
+373,Yamaha,XSR 900 2019,10.499 €,A,Naked,2019,https://www.yamaha-motor.eu/es/es/,847 cc,115 cv,815 mm
+374,Yamaha,XSR 700 2019,7.699 €,A/A2,Naked,2019,https://www.yamaha-motor.eu/es/es/,689 cc,75 cv,815 mm
+375,Yamaha,YZF R125 2019,4.999 €,A1,Deportiva,2019,https://www.yamaha-motor.eu/es/es/,125 cc,15 cv,825 mm
+376,Yamaha,T Max SX Sport Edition 2018,14.199 €,A,Scooter,2018,https://www.yamaha-motor.eu/es/es/,530 cc,46 cv,800 mm
+377,Yamaha,MT 07,6.799 €,A/A2,Naked,2018,https://www.yamaha-motor.eu/es/es/,689 cc,75 cv,805 mm
+378,Yamaha,Tracer 900 GT 2018,13.299 €,A,Trail,2018,https://www.yamaha-motor.eu/es/es/,847 cc,115 cv,845 mm
+379,Yamaha,Tracer 900 2018,11.499 €,A,Trail,2018,https://www.yamaha-motor.eu/es/es/,847 cc,115 cv,845 mm
+380,Yamaha,X Max 125 2018,4.349 €,A1,Scooter,2018,https://www.yamaha-motor.eu/es/es/,124 cc,14 cv,792 mm
+381,Yamaha,X Max 400 2018,6.699 €,A2,Scooter,2018,https://www.yamaha-motor.eu/es/es/,395 cc,32 cv,766 mm
+382,Yamaha,Tricity 125 2017,3.699 €,A1,Scooter,2017,https://www.yamaha-motor.eu/es/es/,125 cc,12 cv,780 mm
+383,Yamaha,T Max 2017,12.299 €,A/A2,Scooter,2017,https://www.yamaha-motor.eu/es/es/,530 cc,46 cv,800 mm
+384,Yamaha,YZF R1,20.900 €,A,Deportiva,2016,https://www.yamaha-motor.eu/es/es/,998 cc,200 cv,855 mm
+385,Yamaha,YZF R1M,25.900 €,A,Deportiva,2016,https://www.yamaha-motor.eu/es/es/,998 cc,200 cv,860 mm
+386,Yamaha,XV 950 R,9.649 €,A/A2,Custom,2016,https://www.yamaha-motor.eu/es/es/,942 cc,52 cv,690 mm
+387,Yamaha,YZF R125,4.699 €,A1,Deportiva,2016,https://www.yamaha-motor.eu/es/es/,124 cc,15 cv,810 mm
+388,Yamaha,XV 950 Racer,9.849 €,A/A2,Custom,2016,https://www.yamaha-motor.eu/es/es/,942 cc,52 cv,690 mm
+389,Yamaha,YBR 125 Custom,2.699 €,A1,Custom,2016,https://www.yamaha-motor.eu/es/es/,124 cc,10 cv,760 mm
+390,Yamaha,YBR 125,2.599 €,A1,Naked,2016,https://www.yamaha-motor.eu/es/es/,124 cc,10 cv,780 mm
+391,Yamaha,YZF R6,13.849 €,A,Deportiva,2016,https://www.yamaha-motor.eu/es/es/,599 cc,129 cv,850 mm
+392,Yamaha,YZF R3,5.299 €,A2,Deportiva,2016,https://www.yamaha-motor.eu/es/es/,321 cc,42 cv,780 mm
+393,Yamaha,MT 09,7.899 €,A,Naked,2016,https://www.yamaha-motor.eu/es/es/,847 cc,115 cv,815 mm
+394,Yamaha,Neo's,2.099 €,AM,Scooter,2016,https://www.yamaha-motor.eu/es/es/,49 cc,3 cv,790 mm
+395,Yamaha,X Max 125 2016,4.349 €,A1,Scooter,2016,https://www.yamaha-motor.eu/es/es/,124 cc,14 cv,792 mm
+396,Yamaha,XV 950,8.749 €,A/A2,Custom,2016,https://www.yamaha-motor.eu/es/es/,942 cc,52 cv,690 mm
+397,Yamaha,MT 09 Sport Tracker,8.599 €,A,Naked,2016,https://www.yamaha-motor.eu/es/es/,847 cc,115 cv,815 mm
+398,Yamaha,XT 660 Z Tenere,7.749 €,A,Trail,2016,https://www.yamaha-motor.eu/es/es/,660 cc,48 cv,895 mm
+399,Yamaha,X Max 250,4.749 €,A2,Scooter,2016,https://www.yamaha-motor.eu/es/es/,249 cc,20 cv,785 mm
+400,Yamaha,MT 10,15.799 €,A,Naked,2016,https://www.yamaha-motor.eu/es/es/,998 cc,160 cv,825 mm
+401,Yamaha,T Max 530,10.899 €,A/A2,Scooter,2016,https://www.yamaha-motor.eu/es/es/,530 cc,46 cv,800 mm
+402,Yamaha,X Max 400 2016,5.999 €,A2,Scooter,2016,https://www.yamaha-motor.eu/es/es/,395 cc,31 cv,785 mm
+403,Yamaha,MT 125,4.349 €,AM,Naked,2016,https://www.yamaha-motor.eu/es/es/,124 cc,15 cv,810 mm
+404,Yamaha,V Max,22.499 €,A,Custom,2016,https://www.yamaha-motor.eu/es/es/,1.679 cc,200 cv,775 mm
+405,Yamaha,XJR 1300 Racer,12.499 €,A,Deportiva,2016,https://www.yamaha-motor.eu/es/es/,1.251 cc,98 cv,829 mm
+406,Yamaha,Tricity,3.699 €,A1,Scooter,2016,https://www.yamaha-motor.eu/es/es/,125 cc,11 cv,780 mm
+407,Yamaha,TZR 50,3.349 €,AM,Deportiva,2016,https://www.yamaha-motor.eu/es/es/,49 cc,2 cv,815 mm
+408,Yamaha,XSR 700,7.499 €,A2,Naked,2016,https://www.yamaha-motor.eu/es/es/,689 cc,75 cv,815 mm
+409,Yamaha,SR 400,5.999 €,A2,Custom,2016,https://www.yamaha-motor.eu/es/es/,399 cc,23 cv,785 mm
+410,Yamaha,WR 125 X,4.449 €,A1,Offroad,2016,https://www.yamaha-motor.eu/es/es/,124 cc,14 cv,920 mm
+411,Yamaha,Xenter 125,3.099 €,A1,Scooter,2016,https://www.yamaha-motor.eu/es/es/,125 cc,12 cv,785 mm
+412,Yamaha,N MAX,2.849 €,A1,Scooter,2016,https://www.yamaha-motor.eu/es/es/,125 cc,12 cv,765 mm
+413,Yamaha,WR 125 R,4.249 €,A1,Offroad,2016,https://www.yamaha-motor.eu/es/es/,124 cc,14 cv,930 mm
+414,Yamaha,XSR 900,10.299 €,A,Naked,2016,https://www.yamaha-motor.eu/es/es/,847 cc,115 cv,815 mm
+415,Yamaha,Neo's 4,2.299 €,AM,Scooter,2016,https://www.yamaha-motor.eu/es/es/,49 cc,3 cv,740 mm
+416,Yamaha,X City 250,3.999 €,A2,Scooter,2016,https://www.yamaha-motor.eu/es/es/,249 cc,21 cv,790 mm
+417,Yamaha,XTZ 1200 Super Tenere,15.999 €,A,Trail,2016,https://www.yamaha-motor.eu/es/es/,1.199 cc,112 cv,845 mm
+418,Yamaha,Fazer 8 N,9.149 €,A,Naked,2016,https://www.yamaha-motor.eu/es/es/,779 cc,106 cv,815 mm
+419,Yamaha,XJR 1300,11.299 €,A,Naked,2016,https://www.yamaha-motor.eu/es/es/,1.251 cc,98 cv,829 mm
+420,Yamaha,FJR 1300,21.699 €,A,Touring,2016,https://www.yamaha-motor.eu/es/es/,1.298 cc,146 cv,905 mm
+421,Yamaha,Jog R,2.099 €,AM,Scooter,2016,https://www.yamaha-motor.eu/es/es/,49 cc,3 cv,770 mm
+422,Yamaha,Jog RR,2.399 €,AM,Scooter,2016,https://www.yamaha-motor.eu/es/es/,49 cc,3 cv,770 mm
+423,Yamaha,Cygnus X,2.799 €,A1,Scooter,2016,https://www.yamaha-motor.eu/es/es/,125 cc,10 cv,785 mm
+424,Yamaha,Majesty S,3.199 €,A1,Scooter,2016,https://www.yamaha-motor.eu/es/es/,125 cc,11 cv,795 mm
+425,Yamaha,D'elight,2.299 €,A1,Scooter,2016,https://www.yamaha-motor.eu/es/es/,114 cc,7 cv,755 mm
+426,Yamaha,MT 03,4.999 €,A2,Naked,2016,https://www.yamaha-motor.eu/es/es/,321 cc,42 cv,780 mm
+427,Yamaha,MT 07,5.899 €,A/A2,Naked,2016,https://www.yamaha-motor.eu/es/es/,689 cc,75 cv,805 mm
+428,Yamaha,Tracer 700 2016,7.899 €,A/A2,Trail,2016,https://www.yamaha-motor.eu/es/es/,689 cc,74 cv,835 mm
+429,Yamaha,Tracer 900 2016,9.999 €,A,Trail,2016,https://www.yamaha-motor.eu/es/es/,847 cc,115 cv,845 mm
+430,Kawasaki,Z900 SE 2022,11.699 €,A,Deportiva,2022,https://www.kawasaki.es,948 cc,125 cv,820 mm
+431,Kawasaki,Versys 1000 S 2022,15.999 €,A,Trail,2022,https://www.kawasaki.es,1.043 cc,120 cv,840 mm
+432,Kawasaki,Ninja H2 R 2022,55.000 €,A,Deportiva,2022,https://www.kawasaki.es,998 cc,310 cv,830 mm
+433,Kawasaki,Z 650 RS 2022,8.550 €,A/A2,Naked,2022,https://www.kawasaki.es,649 cc,68 cv,820 mm
+434,Kawasaki,NInja 125 2022,4.899 €,A1,Deportiva,2022,https://www.kawasaki.es,125 cc,15 cv,785 mm
+435,Kawasaki,Z 125 2022,4.550 €,A1,Naked,2022,https://www.kawasaki.es,125 cc,15 cv,815 mm
+436,Kawasaki,Z 900 RS SE 2022,15.099 €,A,Naked,2022,https://www.kawasaki.es,948 cc,111 cv,835 mm
+437,Kawasaki,Z 900 RS 2022,13.299 €,A,Naked,2022,https://www.kawasaki.es,948 cc,111 cv,835 mm
+438,Kawasaki,Ninja 1000 SX 2022,15.550 €,A,Deportiva,2022,https://www.kawasaki.es,1.043 cc,142 cv,835 mm
+439,Kawasaki,Z650 2021,7.399 €,A/A2,Naked,2022,https://www.kawasaki.es,649 cc,68 cv,790 mm
+440,Kawasaki,W800 2022,10.399 €,A2,Naked,2022,https://www.kawasaki.es,773 cc,48 cv,790 mm
+441,Kawasaki,Vulcan S 2022,8.450 €,A2,Custom,2022,https://www.kawasaki.es,649 cc,61 cv,705 mm
+442,Kawasaki,Z650 2021,7.399 €,A/A2,Naked,2021,https://www.kawasaki.es,649 cc,68 cv,790 mm
+443,Kawasaki,Ninja 650 Tourer 2021,9.203 €,A/A2,Deportiva,2021,https://www.kawasaki.es,649 cc,68 cv,790 mm
+444,Kawasaki,Ninja 650 2021,8.199 €,A/A2,Deportiva,2021,https://www.kawasaki.es,649 cc,68 cv,790 mm
+445,Kawasaki,Z H2 SE 2021,18.450 €,A,Naked,2021,https://www.kawasaki.es,998 cc,200 cv,830 mm
+446,Kawasaki,Z 900 RS 2021,13.199 €,A,Naked,2021,https://www.kawasaki.es,948 cc,111 cv,835 mm
+447,Kawasaki,W800 2021,10.399 €,A2,Naked,2021,https://www.kawasaki.es,773 cc,48 cv,790 mm
+448,Kawasaki,Z 125 2021,4.299 €,A1,Naked,2021,https://www.kawasaki.es,125 cc,15 cv,815 mm
+449,Kawasaki,Ninja 1000 SX 2021,15.299 €,A,Deportiva,2021,https://www.kawasaki.es,1.043 cc,142 cv,835 mm
+450,Kawasaki,Vulcan S 2021,8.099 €,A2,Custom,2021,https://www.kawasaki.es,649 cc,61 cv,705 mm
+451,Kawasaki,Z900 A2 2021,9.999 €,A2,Deportiva,2021,https://www.kawasaki.es,948 cc,46 cv,820 mm
+452,Kawasaki,Z900 2021,9.999 €,A,Deportiva,2021,https://www.kawasaki.es,948 cc,125 cv,820 mm
+453,Kawasaki,W800 2020,10.150 €,A2,Naked,2020,https://www.kawasaki.es,773 cc,48 cv,790 mm
+454,Kawasaki,Z H2 2020,17.450 €,A,Naked,2020,https://www.kawasaki.es,998 cc,200 cv,830 mm
+455,Kawasaki,Ninja 650 2020,7.699 €,A/A2,Deportiva,2019,https://www.kawasaki.es,649 cc,68 cv,790 mm
+456,Kawasaki,Versys 1000 SE 2019,17.699 €,A,Trail,2019,https://www.kawasaki.es,1.043 cc,120 cv,840 mm
+457,Kawasaki,Versys 1000 2019,14.299 €,A,Trail,2019,https://www.kawasaki.es,1.043 cc,120 cv,840 mm
+458,Kawasaki,W800 Street 2019,10.150 €,A2,Naked,2019,https://www.kawasaki.es,773 cc,48 cv,790 mm
+459,Kawasaki,W800 Cafe 2019,10.950 €,A2,Naked,2019,https://www.kawasaki.es,773 cc,48 cv,790 mm
+460,Kawasaki,Z 400 2019,5.775 €,A2,Deportiva,2019,https://www.kawasaki.es,399 cc,45 cv,800 mm
+461,Kawasaki,Ninja H2 2019,32.500 €,A,Deportiva,2019,https://www.kawasaki.es,998 cc,231 cv,823 mm
+462,Kawasaki,Z 125 2019,4.750 €,A1,Naked,2019,https://www.kawasaki.es,125 cc,15 cv,815 mm
+463,Kawasaki,NInja 125 2019,5.050 €,A1,Deportiva,2019,https://www.kawasaki.es,125 cc,15 cv,785 mm
+464,Kawasaki,ZX 6R 2019,12.225 €,A,Deportiva,2019,https://www.kawasaki.es,636 cc,130 cv,830 mm
+465,Kawasaki,Versys 650 2018,8.650 €,A/A2,Trail,2018,https://www.kawasaki.es,649 cc,69 cv,840 mm
+466,Kawasaki,Z 900 RS Cafe 2018,13.499 €,A,Naked,2018,https://www.kawasaki.es,948 cc,111 cv,820 mm
+467,Kawasaki,Z 900 RS,12.999 €,A,Naked,2018,https://www.kawasaki.es,948 cc,111 cv,835 mm
+468,Kawasaki,Ninja 400 2018,6.385 €,A2,Deportiva,2018,https://www.kawasaki.es,399 cc,45 cv,785 mm
+469,Kawasaki,Z1000 SX 2017,14.125 €,A,Deportiva,2017,https://www.kawasaki.es,1.043 cc,142 cv,815 mm
+470,Kawasaki,Z650 2017,6.960 €,A/A2,Naked,2017,https://www.kawasaki.es,649 cc,68 cv,790 mm
+471,Kawasaki,Ninja 650 2017,7.660 €,A/A2,Deportiva,2017,https://www.kawasaki.es,649 cc,68 cv,790 mm
+472,Kawasaki,ZX 6 R,10.450 €,A,Deportiva,2016,https://www.kawasaki.es,599 cc,128 cv,815 mm
+473,Kawasaki,Z 800,8.399 €,A,Naked,2016,https://www.kawasaki.es,806 cc,113 cv,834 mm
+474,Kawasaki,ZX 6 R 636,11.500 €,A,Deportiva,2016,https://www.kawasaki.es,636 cc,131 cv,830 mm
+475,Kawasaki,Z 300,4.799 €,A2,Naked,2016,https://www.kawasaki.es,296 cc,39 cv,785 mm
+476,Kawasaki,VN 1700 Classic,16.500 €,A,Custom,2016,https://www.kawasaki.es,1.700 cc,74 cv,720 mm
+477,Kawasaki,Vulcan 900 Classic,8.050 €,A,Custom,2016,https://www.kawasaki.es,903 cc,50 cv,685 mm
+478,Kawasaki,Vulcan 900 Custom,9.500 €,A2,Custom,2016,https://www.kawasaki.es,903 cc,50 cv,685 mm
+479,Kawasaki,Vulcan S,6.899 €,A/A2,Custom,2016,https://www.kawasaki.es,649 cc,69 cv,705 mm
+480,Kawasaki,Z 1000 SX,13.999 €,A,Deportiva,2016,https://www.kawasaki.es,1.043 cc,142 cv,820 mm
+481,Kawasaki,Z 1000,12.799 €,A,Naked,2016,https://www.kawasaki.es,1.043 cc,143 cv,815 mm
+482,Kawasaki,KLX 125,3.450 €,A1,Trail,2016,https://www.kawasaki.es,125 cc,10 cv,830 mm
+483,Kawasaki,KLX 250,5.300 €,A2,Trail,2016,https://www.kawasaki.es,249 cc,22 cv,890 mm
+484,Kawasaki,Ninja H2,29.000 €,A,Deportiva,2016,https://www.kawasaki.es,998 cc,200 cv,825 mm
+485,Kawasaki,ZX 10 R,18.649 €,A,Deportiva,2016,https://www.kawasaki.es,998 cc,200 cv,835 mm
+486,Kawasaki,ER 6F,7.250 €,A/A2,Deportiva,2016,https://www.kawasaki.es,649 cc,72 cv,805 mm
+487,Kawasaki,Versys 650,7.699 €,A2,Trail,2016,https://www.kawasaki.es,649 cc,69 cv,840 mm
+488,Kawasaki,Versys 1000,13.299 €,A,Trail,2016,https://www.kawasaki.es,1.043 cc,120 cv,840 mm
+489,Kawasaki,ER 6N,6.600 €,A/A2,Naked,2016,https://www.kawasaki.es,649 cc,72 cv,805 mm
+490,Kawasaki,1400 GTR,18.600 €,A,Deportiva,2016,https://www.kawasaki.es,1.352 cc,155 cv,815 mm
+491,Suzuki,GSX S 1000 GT 2022,15.275 €,A,Deportiva,2022,https://www.moto.suzuki.es,999 cc,152 cv,810 mm
+492,Suzuki,V Strom 650 XT 2022,9.695 €,A/A2,Trail,2022,https://www.moto.suzuki.es,645 cc,70 cv,835 mm
+493,Suzuki,V Strom 650 2022,9.195 €,A/A2,Trail,2022,https://www.moto.suzuki.es,645 cc,70 cv,835 mm
+494,Suzuki,Burgman 400 2021,8.395 €,A2,Scooter,2021,https://www.moto.suzuki.es,400 cc,29 cv,755 mm
+495,Suzuki,GSX S 1000 2021,13.029 €,A,Naked,2021,https://www.moto.suzuki.es,999 cc,145 cv,810 mm
+496,Suzuki,SV 650 2021,6.595 €,A/A2,Naked,2021,https://www.moto.suzuki.es,645 cc,76 cv,785 mm
+497,Suzuki,GSX1300 RR Hayabusa 2021,21.995 €,A,Deportiva,2021,https://www.moto.suzuki.es,1.340 cc,190 cv,800 mm
+498,Suzuki,GSX R 1000 R 100 Aniversario,22.995 €,A,Deportiva,2021,https://www.moto.suzuki.es,999 cc,199 cv,810 mm
+499,Suzuki,V Strom 1050 A2 2021,13.395 €,A2,Trail,2021,https://www.moto.suzuki.es,1.037 cc,47 cv,855 mm
+500,Suzuki,V Strom 1050 XT A2 2021,14.995 €,A,Trail,2021,https://www.moto.suzuki.es,1.037 cc,47 cv,850 mm
+501,Suzuki,V Strom 1050 2021,13.395 €,A,Trail,2021,https://www.moto.suzuki.es,1.037 cc,100 cv,855 mm
+502,Suzuki,V Strom 1050 XT 2021,14.995 €,A,Trail,2021,https://www.moto.suzuki.es,1.037 cc,100 cv,850 mm
+503,Suzuki,V Strom 650 XT 2021,9.695 €,A/A2,Trail,2021,https://www.moto.suzuki.es,645 cc,70 cv,835 mm
+504,Suzuki,V Strom 650 2021,9.195 €,A/A2,Trail,2021,https://www.moto.suzuki.es,645 cc,70 cv,835 mm
+505,Suzuki,GSX S 750 2020,8.999 €,A / A2,Naked,2020,https://www.moto.suzuki.es,749 cc,118 cv,820 mm
+506,Suzuki,V Strom 1050 XT 2020,14.629 €,A/A2,Trail,2020,https://www.moto.suzuki.es,1.037 cc,100 cv,850 mm
+507,Suzuki,V Strom 1050 2020,13.029 €,A/A2,Trail,2020,https://www.moto.suzuki.es,1.037 cc,100 cv,855 mm
+508,Suzuki,Katana 2019,15.199 €,A,Naked,2019,https://www.moto.suzuki.es,999 cc,147 cv,825 mm
+509,Suzuki,Burgman 650 2017,11.199 €,A,Scooter,2017,https://www.moto.suzuki.es,638 cc,55 cv,755 mm
+510,Suzuki,SV 650 X 2018,6.699 €,A/A2,Naked,2018,https://www.moto.suzuki.es,645 cc,71 cv,785 mm
+511,Suzuki,V Strom 1000 2017,12.499 €,A,Trail,2017,https://www.moto.suzuki.es,1.037 cc,100 cv,850 mm
+512,Suzuki,V Strom 650 2017,7.399 €,A/ A2,Trail,2017,https://www.moto.suzuki.es,645 cc,68 cv,835 mm
+513,Suzuki,GSX-R 1000 2017,16.499 €,A,Deportiva,2017,https://www.moto.suzuki.es,999 cc,199 cv,810 mm
+514,Suzuki,GSX-S 750 2017,7.199 €,A/ A2,Naked,2017,https://www.moto.suzuki.es,749 cc,118 cv,820 mm
+515,Suzuki,GSX S 125 2017,4.199 €,A1,Naked,2017,https://www.moto.suzuki.es,124 cc,11 cv,785 mm
+516,Suzuki,GSX-R 125 2017,4.599 €,A1,Deportiva,2017,https://www.moto.suzuki.es,124 cc,11 cv,785 mm
+517,Suzuki,V Strom 1000,12.499 €,A,Trail,2016,https://www.moto.suzuki.es,1.037 cc,100 cv,850 mm
+518,Suzuki,V Strom 650 XT,8.999 €,A,Trail,2016,https://www.moto.suzuki.es,645 cc,67 cv,835 mm
+519,Suzuki,Hayabusa 1300,15.899 €,A,Deportiva,2016,https://www.moto.suzuki.es,1.340 cc,197 cv,805 mm
+520,Suzuki,V Strom 650,8.599 €,A2,Trail,2016,https://www.moto.suzuki.es,645 cc,67 cv,835 mm
+521,Suzuki,Van Van 125,3.699 €,A1,Trail,2013,https://www.suzuki,125 cc,12 cv,770 mm
+522,Suzuki,SV 650 2016,6.699 €,A/A2,Naked,2016,https://www.moto.suzuki.es,645 cc,71 cv,785 mm
+523,Suzuki,Gladius 650,6.799 €,A/A2,Naked,2016,https://www.moto.suzuki.es,645 cc,66 cv,785 mm
+524,Suzuki,GSR 750 Z,8.599 €,A,Naked,2016,https://www.moto.suzuki.es,749 cc,106 cv,815 mm
+525,Suzuki,Inazuma,3.899 €,A2,Naked,2016,https://www.moto.suzuki.es,248 cc,24 cv,780 mm
+526,Suzuki,Bandit 1250 S,9.499 €,A,Deportiva,2016,https://www.moto.suzuki.es,1.255 cc,98 cv,790 mm
+527,Suzuki,GSX 1250 FA,9.999 €,A,Touring,2016,https://www.moto.suzuki.es,1.255 cc,98 cv,805 mm
+528,Suzuki,Burgman 400,7.199 €,A2,Scooter,2016,https://www.suzuki,400 cc,34 cv,710 mm
+529,Suzuki,Burgman 650 Executive,10.999 €,A,Scooter,2016,https://www.moto.suzuki.es,638 cc,55 cv,750 mm
+530,KTM,1290 Super Adventure R 2023,21.389 €,A,Trail,2023,https://www.ktm.com/es-es.html,1.301 cc,160 cv,860 mm
+531,KTM,1290 Super Adventure S 2023,21.369 €,A,Trail,2023,https://www.ktm.com/es-es.html,1.301 cc,160 cv,860 mm
+532,KTM,890 Adventure 2023,15.269 €,A,Trail,2023,https://www.ktm.com/es-es.html,889 cc,103 cv,880 mm
+533,KTM,790 Adventure 2023,11.323 €,A/A2,Naked,2023,https://www.ktm.com/es-es.html,799 cc,93 cv,825 mm
+534,KTM,890 Adventure 2023,14.259 €,A,Trail,2023,https://www.ktm.com/es-es.html,889 cc,103 cv,830 mm
+535,KTM,790 Duke 2022,8.999 €,A/A2,Naked,2022,https://www.ktm.com/es-es.html,799 cc,93 cv,825 mm
+536,KTM,890 Duke R 2022,13.049 €,A,Naked,2022,https://www.ktm.com/es-es.html,890 cc,121 cv,834 mm
+537,KTM,1290 Super Duke GT 2022,20.399 €,A,Touring,2022,https://www.ktm.com/es-es.html,1.301 cc,172 cv,835 mm
+538,KTM,390 Adventure 2022,6.199 €,A2,Trail,2022,https://www.ktm.com/es-es.html,373 cc,44 cv,855 mm
+539,KTM,1290 Super Duke RR 2021,26.249 €,A,Naked,2021,https://www.ktm.com/es-es.html,1.301 cc,177 cv,835 mm
+540,KTM,1290 Super Adventure S 2021,19.199 €,A,Trail,2021,https://www.ktm.com/es-es.html,1.301 cc,160 cv,849 mm
+541,KTM,1290 Super Adventure R 2021,19.799 €,A,Trail,2021,https://www.ktm.com/es-es.html,1.301 cc,160 cv,890 mm
+542,KTM,890 Duke 2021,10.499 €,A,Naked,2021,https://www.ktm.com/es-es.html,889 cc,115 cv,820 mm
+543,KTM,390 Duke 2021,5.749 €,A2,Naked,2021,https://www.ktm.com/es-es.html,373 cc,43 cv,830 mm
+544,KTM,Duke 125 2021,4.849 €,A1,Naked,2021,https://www.ktm.com/es-es.html,125 cc,15 cv,830 mm
+545,KTM,890 Adventure R Rally 2021,21.499 €,A,Trail,2021,https://www.ktm.com/es-es.html,889 cc,105 cv,830 mm
+546,KTM,890 Adventure R 2021,13.999 €,A,Trail,2021,https://www.ktm.com/es-es.html,889 cc,105 cv,830 mm
+547,KTM,890 Adventure 2021,13.099 €,A,Trail,2021,https://www.ktm.com/es-es.html,889 cc,105 cv,830 mm
+548,KTM,890 Duke R 2020,14.899 €,A,Naked,2020,https://www.ktm.com/es-es.html,890 cc,121 cv,834 mm
+549,KTM,1290 Super Duke R 2020,19.900 €,A,Naked,2020,https://www.ktm.com/es-es.html,1.301 cc,180 cv,835 mm
+550,KTM,390 Adventure 2020,6.199 €,A2,Trail,2020,https://www.ktm.com/es-es.html,373 cc,44 cv,855 mm
+551,KTM,690 Enduro R 2019,9.999 €,A2,Offroad,2019,https://www.ktm.com/es-es.html,690 cc,74 cv,910 mm
+552,KTM,690 SMC R 2019,9.999 €,A2,Deportiva,2019,https://www.ktm.com/es-es.html,690 cc,75 cv,890 mm
+553,KTM,1090 Adventure R 2019,14.999 €,A,Trail,2019,https://www.ktm.com/es-es.html,1.050 cc,125 cv,890 mm
+554,KTM,1090 Adventure 2019,12.999 €,A,Trail,2019,https://www.ktm.com/es-es.html,1.050 cc,125 cv,850 mm
+555,KTM,1290 Super Adventure R 2019,18.199 €,A,Trail,2019,https://www.ktm.com/es-es.html,1.301 cc,160 cv,890 mm
+556,KTM,1290 Super Adventure S 2019,17.999 €,A,Trail,2019,https://www.ktm.com/es-es.html,1.301 cc,160 cv,860 mm
+557,KTM,790 Adventure R 2019,13.299 €,A/A2,Naked,2019,https://www.ktm.com/es-es.html,799 cc,95 cv,825 mm
+558,KTM,790 Adventure 2019,12.399 €,A/A2,Naked,2019,https://www.ktm.com/es-es.html,799 cc,95 cv,825 mm
+559,KTM,1290 Super Duke GT 2019,18.999 €,A,Naked,2016,https://www.ktm.com/es-es.html,1.301 cc,175 cv,835 mm
+560,KTM,1290 Super Duke R 2019,17.999 €,A,Naked,2016,https://www.ktm.com/es-es.html,1.301 cc,177 cv,835 mm
+561,KTM,790 Duke 2018,9.689 €,A/A2,Naked,2018,https://www.ktm.com/es-es.html,799 cc,105 cv,825 mm
+562,KTM,1290 Super Duke R 2017,17.100 €,A,Naked,2017,https://www.ktm.com/es-es.html,1.301 cc,177 cv,835 mm
+563,KTM,390 Duke 2017,5.399 €,A2,Naked,2017,https://www.ktm.com/es-es.html,373 cc,44 cv,830 mm
+564,KTM,Duke 125 2017,4.499 €,A1,Naked,2017,https://www.ktm.com/es-es.html,124 cc,15 cv,830 mm
+565,KTM,1290 Super Adventure S 2017,17.190 €,A,Trail,2017,https://www.ktm.com/es-es.html,1.301 cc,160 cv,860 mm
+566,KTM,1290 Super Adventure R 2017,17.499 €,A,Trail,2017,https://www.ktm.com/es-es.html,1.301 cc,160 cv,890 mm
+567,KTM,1090 Adventure R 2017,15.100 €,A,Trail,2017,https://www.ktm.com/es-es.html,1.050 cc,125 cv,890 mm
+568,KTM,Super Duke R Special Edition,18.586 €,A,Naked,2016,https://www.ktm.com/es-es.html,1.301 cc,108 cv,835 mm
+569,KTM,RC 390,5.398 €,A2,Deportiva,2015,https://www.ktm.com/es-es.html,373 cc,44 cv,820 mm
+570,KTM,1290 Super Adventure,17.953 €,A,Trail,2015,https://www.ktm.com/es-es.html,1.301 cc,160 cv,860 mm
+571,KTM,1290 Super Duke GT,18.586 €,A,Touring,2016,https://www.ktm.com/es-es.html,1.295 cc,173 cv,835 mm
+572,KTM,1290 Super Duke R,16.318 €,A,Naked,2014,https://www.ktm.com/es-es.html,1.295 cc,180 cv,835 mm
+573,KTM,690 SMC R,8.699 €,A2,Offroad,2015,https://www.ktm.com/es-es.html,690 cc,67 cv,890 mm
+574,KTM,390 Duke,4.950 €,A2,Naked,2013,https://www.ktm.com/es-es.html,375 cc,43 cv,800 mm
+575,KTM,690 Duke,7.990 €,A2,Naked,2016,https://www.ktm.com/es-es.html,690 cc,73 cv,835 mm
+576,KTM,1190 Adventure,15.599 €,A,Trail,2013,https://www.ktm.com/es-es.html,1.195 cc,150 cv,860 mm
+577,KTM,690 Duke R,9.750 €,A,Naked,2016,https://www.ktm.com/es-es.html,690 cc,70 cv,865 mm
+578,KTM,1190 Adventure R,16.599 €,A,Trail,2013,https://www.ktm.com/es-es.html,1.195 cc,150 cv,890 mm
+579,KTM,RC 125,4.399 €,A1,Deportiva,2015,https://www.ktm.com/es-es.html,125 cc,15 cv,820 mm
